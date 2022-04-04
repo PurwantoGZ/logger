@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Utils;
+namespace Ziyech;
 
 use Monolog\Formatter\LineFormatter;
 use Monolog\Handler\RotatingFileHandler;

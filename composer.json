@@ -1,8 +1,8 @@
 {
-  "name": "utils/log",
+  "name": "ziyech/log",
   "autoload": {
     "psr-4": {
-      "Utils\\": "src/"
+      "Ziyech\\": "src/"
     }
   },
   "authors": [
