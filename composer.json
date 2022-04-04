@@ -1,0 +1,22 @@
+{
+  "name": "utils/log",
+  "autoload": {
+    "psr-4": {
+      "Utils\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "purwanto",
+      "email": "purwanto@amarbank.co.id"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "monolog/monolog": "^2.4"
+  }
+  ,
+  "require-dev": {
+    "roave/security-advisories": "dev-latest"
+  }
+}
